@@ -1,0 +1,15 @@
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\bin\Debug\RVDL.exe.config
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\bin\Debug\RVDL.exe
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\bin\Debug\RVDL.pdb
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL.csprojAssemblyReference.cache
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\MainWindow.g.cs
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\App.g.cs
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL_MarkupCompile.cache
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL_MarkupCompile.lref
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\MainWindow.baml
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL.g.resources
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL.Properties.Resources.resources
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL.csproj.GenerateResource.cache
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL.csproj.CoreCompileInputs.cache
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL.exe
+C:\Users\reese_000\Documents\__DEV\RVDL\RVDL\obj\Debug\RVDL.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="RVDL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RVDL"
+        mc:Ignorable="d"
+        Title="RVDL (β)" Height="230" Width="650" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow">
+    <Grid>
+        <Border Padding="12">
+            <TextBlock FontSize="20" TextWrapping="Wrap">
+                Hello, currently I do nothing as this is just a test build. I hope you enjoyed!
+            </TextBlock>
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFFFE2CE" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+        </Border>
+    </Grid>
+</Window>
