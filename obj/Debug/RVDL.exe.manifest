@@ -54,24 +54,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RVDL.exe" size="13784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RVDL.exe" size="15320">
       <assemblyIdentity name="RVDL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9Z2bRU8zMsviJfHFKkOfd3dyKCNgBzsaNbuAS8HAJt8=</dsig:DigestValue>
+        <dsig:DigestValue>oT5+f5kB5uztG76zKGzTPaon5cokZV0Jw+ciCdmAO1w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="RVDL.exe.config" size="189">
+  <file name="RVDL.exe.config" size="894">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>wDmrlTz6aNIp269ZO0+f+NuBph+l7PSF+/aeuhX4N/I=</dsig:DigestValue>
+      <dsig:DigestValue>iUNhgnMEZzfdO/AdVQS7+PJT0/MKdR3aH3PNjT3BYWE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

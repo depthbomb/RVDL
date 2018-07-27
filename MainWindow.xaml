@@ -11,7 +11,7 @@
             <TextBlock VerticalAlignment="Center">Url of Reddit Post</TextBlock>
             <Button HorizontalAlignment="Right" FontFamily="Segoe MDL2 Assets" Padding="4" BorderBrush="Transparent">&#xE713;</Button>
         </Grid>
-        <TextBox Name="txtBoxURL" Margin="0,5,0,0" Padding="4"></TextBox>
+        <TextBox Name="txtBoxURL" Margin="0,5,0,0" Padding="4">https://www.reddit.com/r/funny/comments/92d0jf/i_saw_this_legend_at_a_stoplight_lightning_a/</TextBox>
         <Button Margin="0,10,0,0" Click="Submit" BorderBrush="Transparent" Padding="4">Submit</Button>
         <TextBlock Name="txtError" Foreground="Red" Margin="0,5,0,0" Visibility="Collapsed"></TextBlock>
     </StackPanel>

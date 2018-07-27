@@ -35,3 +35,4 @@ C:\Users\liamc\Desktop\Programming\RVDL\obj\Debug\RVDL.pdb
 C:\Users\liamc\Desktop\Programming\RVDL\bin\Debug\Newtonsoft.Json.dll
 C:\Users\liamc\Desktop\Programming\RVDL\bin\Debug\Newtonsoft.Json.xml
 C:\Users\liamc\Desktop\Programming\RVDL\obj\Debug\RVDL.csproj.CopyComplete
+C:\Users\liamc\Desktop\Programming\RVDL\obj\Debug\RVDL.csprojAssemblyReference.cache
